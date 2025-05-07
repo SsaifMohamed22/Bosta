@@ -68,8 +68,5 @@ dependencies {
     implementation ("com.google.dagger:dagger:2.46.1")
     kapt ("com.google.dagger:dagger-compiler:2.46.1")
 
-// Unit Testing
-    testImplementation ("junit:junit:4.13.2")
-    testImplementation ("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.6.4")
-    testImplementation ("androidx.arch.core:core-testing:2.2.0")
+
 }
