@@ -24,6 +24,15 @@ This is a simple Android application developed as part of the Bosta Android Task
 - **Endpoint:**  
   `GET cities/getAllDistricts?countryId=60e4482c7cb7d4bc4849c4d5`
 
+  ## 📷 Screenshots
+  
+![image](https://github.com/user-attachments/assets/c04d7fcd-23b9-4441-84e8-c8d7450e8aac)
+
+![image](https://github.com/user-attachments/assets/b5bda9b8-3ca6-4376-a531-cc53c0f0f3e0)
+
+
+---
+
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
